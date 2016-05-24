@@ -122,6 +122,7 @@
   function getPluginNum($tag){
 
   	global $plugin_arr,$plugin_meta,$plugin_remove;
+  	
   	return array('plugin_arr'=>count($plugin_arr),
   				 'plugin_meta'=>count($plugin_meta),
   				 'plugin_remove'=>count($plugin_remove)
@@ -135,4 +136,5 @@
   	return $plugin_meta;
 
   }
+  
   
