@@ -1,7 +1,7 @@
 <?php
 
   /**
-   * 插件引擎 版权所有 Happy.Yin<happy.yin@qq.com>
+   * PHP插件引擎
    * 
    * @author   Happy<happy.yin@qq.com>
    */
