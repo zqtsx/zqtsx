@@ -1,6 +1,3 @@
-#zqtsx
-PHP实现类似CS模式下的插件引擎功能
-
 
 为插件引擎准备好要用到的测试函数
 function str2str2($str){
